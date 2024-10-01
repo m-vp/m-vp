@@ -1,6 +1,6 @@
 <!--# 👋 Hi there, I'm Sai Srujan Reddy !-->
 <p align="center">
-  <img src="download.gif" alt="description" style="width: 100%; height: auto;" />
+  <img src="download.gif" alt="description" style="width: 80%; height: auto;" />
 </p>
 
 
