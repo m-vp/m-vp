@@ -1,3 +1,18 @@
+<!--# 👋 Hi there, I'm Sai Srujan Reddy !-->
+<p align="center">
+  <img src="iam.gif" alt="description" style="width: 100%; height: auto;" />
+</p>
+
+
+<h1 align="center">Hi 👋, I'm Venkat Prashanth</h1>
+<h3 align="center">CTF Player | Full Stack Developer | Web Security Researcher </h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaiSrujanReddyP&style=flat-square&color=blue) [![GitHub followers](https://img.shields.io/github/followers/SaiSrujanReddyP?label=Follow&style=social)](https://github.com/SaiSrujanReddyP/?tab=follow)
+
+Welcome to my GitHub profile! 
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on a project involving code evaluation using weighted regression.<br>
 👯 I’m looking to collaborate on web development projects.<br>
