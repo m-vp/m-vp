@@ -1,4 +1,3 @@
-<!--# 👋 Hi there, I'm Sai Srujan Reddy !-->
 <p align="center">
   <img src="download.gif" alt="description" style="width: 70%; height: auto;" />
 </p>
