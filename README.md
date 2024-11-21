@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Venkat Prashanth</h1>
-<h3 align="center">CTF Player | Full Stack Developer | Web Security Researcher </h3>
+<h3 align="center">Backend Web Developer | Web Security Researcher </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m-vp&style=flat-square&color=blue) [![GitHub followers](https://img.shields.io/github/followers/m-vp?label=Follow&style=social)](https://github.com/m-vp/?tab=follow)
 
