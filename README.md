@@ -17,7 +17,6 @@ Welcome to my GitHub profile!
 👯 I’m looking to collaborate on web development projects.<br>
 🌱 I’m currently learning Node.js.<br>
 💬 Ask me about coding, project management, or tech trends!<br>
-⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
 
 
 
