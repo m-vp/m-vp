@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/venkat-prashanth-m/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/venkat-prashanth-m/](https://www.linkedin.com/in/venkat-prashanth-m/)) 
 
 
 ## 🛠 My Stack
