@@ -64,4 +64,6 @@ Welcome to my GitHub profile!
 # 📊 GitHub Stats:
 ![m-vp](https://github-readme-stats.vercel.app/api?username=m-vp&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-vp&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-vp&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-vp&layout=compact&theme=radical)
