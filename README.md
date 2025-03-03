@@ -13,9 +13,9 @@ Welcome to my GitHub profile!
 
 
 # 💫 About Me:
-🔭 I’m currently working on a project involving code evaluation using weighted regression.<br>
+🔭 I’m currently working on a project involving Microservices, Docker, Kubernetes, AWS.<br>
 👯 I’m looking to collaborate on web development projects.<br>
-🌱 I’m currently learning Node.js.<br>
+🌱 I’m currently learning Node.js, AWS, Kubernetes.<br>
 💬 Ask me about coding, project management, or tech trends!<br>
 
 
