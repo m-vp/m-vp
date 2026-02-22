@@ -13,9 +13,9 @@ Welcome to my GitHub profile!
 
 
 # 💫 About Me:
-🔭 I’m currently working on a project involving Microservices, Docker, Kubernetes, AWS.<br>
+🔭 I’m currently working on a project involving Terraform, Azure, Flask and React<br>
 👯 I’m looking to collaborate on web development projects.<br>
-🌱 I’m currently learning Node.js, AWS, Kubernetes.<br>
+🌱 I’m currently learning Terraform, Azure, Spring boot.<br>
 💬 Ask me about coding, project management, or tech trends!<br>
 
 
